@@ -1,0 +1,7 @@
+﻿{
+  "input_image": "data/task_4_3/yoshi_input.png",
+  "mask_image": "data/task_4_3/mask_input.png",
+  "output_image": "outputs/task_4_3/yoshi_hue_output.png",
+  "hue_value": 90,
+  "show_windows": true
+}

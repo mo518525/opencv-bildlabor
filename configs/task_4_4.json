@@ -1,0 +1,6 @@
+﻿{
+  "input_image": "data/task_4_4/input_source.png",
+  "target_image": "data/task_4_4/target_source.png",
+  "output_image": "outputs/task_4_4/color_transfer_output.png",
+  "show_windows": true
+}

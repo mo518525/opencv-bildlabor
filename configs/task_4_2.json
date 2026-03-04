@@ -1,0 +1,10 @@
+﻿{
+  "input_image": "data/task_4_2/yoshi_input.png",
+  "output_image": "outputs/task_4_2/yoshi_output.png",
+  "center_square": {
+    "size": 10,
+    "color_bgr": [0, 0, 255]
+  },
+  "black_row_step": 5,
+  "show_windows": true
+}
